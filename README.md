@@ -120,4 +120,16 @@ The Library class represents a library entity in the Library Management System. 
 - It encapsulates information such as name, address, and pin code.
 - It also maintains a list of books available in the library.
 
+  ## ER Diagram
+  
+![Screenshot 2024-03-09 230328](https://github.com/Shubhangee-shah/Library-Management-System/assets/138153081/c7bb07e7-5a02-4fdd-8e26-cbc89f10cbb4)
+
+
+## Use Cases
+
+![WhatsApp Image 2024-03-09 at 17 20 27](https://github.com/Shubhangee-shah/Library-Management-System/assets/138153081/8b4908fa-ea04-4f1b-b472-40e7223fbc99)
+![WhatsApp Image 2024-03-09 at 17 20 59](https://github.com/Shubhangee-shah/Library-Management-System/assets/138153081/067ca9f3-6a23-4473-a14b-8b7e0b7c54b4)
+![WhatsApp Image 2024-03-09 at 17 20 59](https://github.com/Shubhangee-shah/Library-Management-System/assets/138153081/b399c9d1-b6d0-44f2-b181-450a9341587e)
+
+
 
